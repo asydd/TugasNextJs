@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Luxury Suite",
+    "category": "Suite",
+    "price": 250
+  },
+  {
+    "id": 2,
+    "name": "Deluxe Room",
+    "category": "Deluxe",
+    "price": 180
+  },
+  {
+    "id": 3,
+    "name": "Standard Room",
+    "category": "Standard",
+    "price": 100
+  },
+  {
+    "id": 4,
+    "name": "Ocean View Suite",
+    "category": "Suite",
+    "price": 300
+  },
+  {
+    "id": 5,
+    "name": "Family Deluxe",
+    "category": "Deluxe",
+    "price": 220
+  },
+  {
+    "id": 6,
+    "name": "Single Standard",
+    "category": "Standard",
+    "price": 90
+  },
+  {
+    "id": 7,
+    "name": "Business Deluxe",
+    "category": "Deluxe",
+    "price": 200
+  },
+  {
+    "id": 8,
+    "name": "Executive Suite",
+    "category": "Suite",
+    "price": 280
+  },
+  {
+    "id": 9,
+    "name": "Garden View Room",
+    "category": "Standard",
+    "price": 110
+  },
+  {
+    "id": 10,
+    "name": "Penthouse Suite",
+    "category": "Suite",
+    "price": 500
+  }
+]

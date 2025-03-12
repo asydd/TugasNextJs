@@ -1,0 +1,6 @@
+[
+    { "id": 1, "room": "Deluxe Room", "customer": "John Doe", "date": "2025-03-12", "status": "Confirmed" },
+    { "id": 2, "room": "Suite Room", "customer": "Jane Smith", "date": "2025-03-13", "status": "Pending" },
+    { "id": 3, "room": "Standard Room", "customer": "Alice Brown", "date": "2025-03-14", "status": "Cancelled" }
+  ]
+  

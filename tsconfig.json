@@ -22,6 +22,6 @@
       "@app/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/components/RoomsTable.js", "src/app/pages/index.js", "src/app/pages/api/rooms.js"],
   "exclude": ["node_modules"]
 }
