@@ -1,6 +1,132 @@
 [
-    { "id": 1, "room": "Deluxe Room", "customer": "John Doe", "date": "2025-03-12", "status": "Confirmed" },
-    { "id": 2, "room": "Suite Room", "customer": "Jane Smith", "date": "2025-03-13", "status": "Pending" },
-    { "id": 3, "room": "Standard Room", "customer": "Alice Brown", "date": "2025-03-14", "status": "Cancelled" }
-  ]
-  
+  { 
+      "id": 1, 
+      "room": "Deluxe Room", 
+      "customer": "Aceng Ziran", 
+      "date": "2025-03-12", 
+      "status": "Confirmed", 
+      "check_in_time": "14:00", 
+      "check_out_time": "12:00", 
+      "adults": 2, 
+      "children": 0, 
+      "special_request": "Extra bed", 
+      "payment_method": "Credit Card" 
+  },
+  { 
+      "id": 2, 
+      "room": "Suite Room", 
+      "customer": "Dimas Novi", 
+      "date": "2025-03-13", 
+      "status": "Pending", 
+      "check_in_time": "15:00", 
+      "check_out_time": "11:00", 
+      "adults": 1, 
+      "children": 1, 
+      "special_request": "Baby cot", 
+      "payment_method": "PayPal" 
+  },
+  { 
+      "id": 3, 
+      "room": "Standard Room", 
+      "customer": "Tazkia Hidayatulloh", 
+      "date": "2025-03-14", 
+      "status": "Cancelled", 
+      "check_in_time": "14:00", 
+      "check_out_time": "12:00", 
+      "adults": 2, 
+      "children": 0, 
+      "special_request": "Early check-in", 
+      "payment_method": "Bank Transfer" 
+  },
+  { 
+      "id": 4, 
+      "room": "Executive Suite", 
+      "customer": "Arfan Maulan", 
+      "date": "2025-03-15", 
+      "status": "Confirmed", 
+      "check_in_time": "14:00", 
+      "check_out_time": "12:00", 
+      "adults": 3, 
+      "children": 1, 
+      "special_request": "Late check-out", 
+      "payment_method": "Debit Card" 
+  },
+  { 
+      "id": 5, 
+      "room": "Family Room", 
+      "customer": "Emil Awaliadi", 
+      "date": "2025-03-16", 
+      "status": "Confirmed", 
+      "check_in_time": "14:00", 
+      "check_out_time": "12:00", 
+      "adults": 4, 
+      "children": 2, 
+      "special_request": "Connecting rooms", 
+      "payment_method": "Cash" 
+  },
+  { 
+      "id": 6, 
+      "room": "Deluxe Room", 
+      "customer": "Yogi Febriandi", 
+      "date": "2025-03-17", 
+      "status": "Pending", 
+      "check_in_time": "14:00", 
+      "check_out_time": "12:00", 
+      "adults": 2, 
+      "children": 0, 
+      "special_request": "Ocean view", 
+      "payment_method": "Credit Card" 
+  },
+  { 
+      "id": 7, 
+      "room": "Suite Room", 
+      "customer": "Rasyid Ridho", 
+      "date": "2025-03-18", 
+      "status": "Confirmed", 
+      "check_in_time": "14:00", 
+      "check_out_time": "12:00", 
+      "adults": 1, 
+      "children": 0, 
+      "special_request": "Non-smoking room", 
+      "payment_method": "PayPal" 
+  },
+  { 
+      "id": 8, 
+      "room": "Standard Room", 
+      "customer": "Irfan Ono", 
+      "date": "2025-03-19", 
+      "status": "Cancelled", 
+      "check_in_time": "14:00", 
+      "check_out_time": "12:00", 
+      "adults": 2, 
+      "children": 0, 
+      "special_request": "Wheelchair access", 
+      "payment_method": "Bank Transfer" 
+  },
+  { 
+      "id": 9, 
+      "room": "Executive Suite", 
+      "customer": "Aisyah Siti", 
+      "date": "2025-03-20", 
+      "status": "Confirmed", 
+      "check_in_time": "14:00", 
+      "check_out_time": "12:00", 
+      "adults": 2, 
+      "children": 1, 
+      "special_request": "Honeymoon package", 
+      "payment_method": "Debit Card" 
+  },
+  { 
+      "id": 10, 
+      "room": "Family Room", 
+      "customer": "Puji Haryadi", 
+      "date": "2025-03-21", 
+      "status": "Pending", 
+      "check_in_time": "14:00", 
+      "check_out_time": "12:00", 
+      "adults": 3, 
+      "children": 2, 
+      "special_request": "Breakfast included", 
+      "payment_method": "Cash" 
+  }
+]

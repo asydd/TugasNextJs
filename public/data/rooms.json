@@ -1,62 +1,82 @@
 [
   {
     "id": 1,
-    "name": "Luxury Suite",
-    "category": "Suite",
-    "price": 250
+    "name": "LAB1",
+    "capacity": 20,
+    "category": "Computer Lab",
+    "price": 300000,
+    "status": "Pending"
   },
   {
     "id": 2,
-    "name": "Deluxe Room",
-    "category": "Deluxe",
-    "price": 180
+    "name": "LAB2",
+    "capacity": 25,
+    "category": "Computer Lab",
+    "price": 350000,
+    "status": "Approved"
   },
   {
     "id": 3,
-    "name": "Standard Room",
-    "category": "Standard",
-    "price": 100
+    "name": "LAB3",
+    "capacity": 30,
+    "category": "Computer Lab",
+    "price": 400000,
+    "status": "Rejected"
   },
   {
     "id": 4,
-    "name": "Ocean View Suite",
-    "category": "Suite",
-    "price": 300
+    "name": "401",
+    "capacity": 40,
+    "category": "Classroom",
+    "price": 200000,
+    "status": "Pending"
   },
   {
     "id": 5,
-    "name": "Family Deluxe",
-    "category": "Deluxe",
-    "price": 220
+    "name": "402",
+    "capacity": 35,
+    "category": "Classroom",
+    "price": 250000,
+    "status": "Approved"
   },
   {
     "id": 6,
-    "name": "Single Standard",
-    "category": "Standard",
-    "price": 90
+    "name": "403",
+    "capacity": 50,
+    "category": "Lecture Hall",
+    "price": 500000,
+    "status": "Pending"
   },
   {
     "id": 7,
-    "name": "Business Deluxe",
-    "category": "Deluxe",
-    "price": 200
+    "name": "404",
+    "capacity": 30,
+    "category": "Lecture Hall",
+    "price": 450000,
+    "status": "Rejected"
   },
   {
     "id": 8,
-    "name": "Executive Suite",
-    "category": "Suite",
-    "price": 280
+    "name": "201",
+    "capacity": 15,
+    "category": "Meeting Room",
+    "price": 150000,
+    "status": "Approved"
   },
   {
     "id": 9,
-    "name": "Garden View Room",
-    "category": "Standard",
-    "price": 110
+    "name": "202",
+    "capacity": 20,
+    "category": "Meeting Room",
+    "price": 180000,
+    "status": "Pending"
   },
   {
     "id": 10,
-    "name": "Penthouse Suite",
-    "category": "Suite",
-    "price": 500
+    "name": "203",
+    "capacity": 10,
+    "category": "Small Office",
+    "price": 120000,
+    "status": "Approved"
   }
 ]
